@@ -1,0 +1,24 @@
+body {
+  padding: 0;
+  margin: auto;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+}
+
+#calendar {
+  margin-top: 15em;
+}
+
+#example {
+  margin: 0 auto;
+  text-align: center;
+}
+
+#example h3:not(:first-of-type) {
+  margin-top: 3rem;
+}
+
+#example p {
+  font-size: 0.9rem;
+}
